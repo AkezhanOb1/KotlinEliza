@@ -8,7 +8,7 @@ Enter text <br/>
 Program parse your input and split into tags <br />
 After that program will search for a responses from replies.txt and output it <br />
 For Example: <br />
-Hi! I'm Eliza, what is your problem? <br />
+>Hi! I'm Eliza, what is your problem? <br />
 > -Hello <br />
 How do you do... Please state your problem. <br />
 > -My name is Akezhan<br />
